@@ -1,0 +1,24 @@
+{
+  "name": "blog-v2",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.6",
+    "less": "^4.1.2",
+    "markdown-it": "^12.3.2",
+    "material-icons": "^1.10.7",
+    "mavon-editor": "^2.10.4",
+    "vite-plugin-vue2": "^1.9.3",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2"
+  }
+}
