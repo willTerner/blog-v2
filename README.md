@@ -1,6 +1,6 @@
 # blog-v2
 个人博客网站v2版本
-## 网站地址 <a href="https://www.terner.xyz/#/"></a>
+## [网站地址](https://www.terner.xyz/#/)
 ## 前端
   + 前端源文件在front-end目录下的blog-v2
   + 前端使用vue开发，使用媒体查询和弹性盒子实现了响应式布局
